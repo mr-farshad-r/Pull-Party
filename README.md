@@ -1,4 +1,4 @@
-# Git Pull All
+# Pull Party (Git pull all repositories)
 
 A small Bash script that finds Git repositories under a directory, safely pulls each repository, and prints an emoji result table.
 
